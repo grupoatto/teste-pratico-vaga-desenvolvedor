@@ -28,5 +28,9 @@ Criar um sistema capaz de realizar um CRUD de Agricultores
 - Utilizar Banco de dados MySQL
 - Ao Finalizar o Desenvolvimento, subir o fonte para um repositorio público no Github e Enviar o Link para a equipe de Recrutamento e Seleção.
 
+## Observações
+- Detalhes adicionados a mais que o solicitado pode ser um diferencial
+- Layout bem feito pode ser uma diferencial
+
 
 ### A Equipe ATTO Deseja uma boa sorte!
