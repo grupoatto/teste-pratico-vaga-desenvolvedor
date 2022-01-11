@@ -26,11 +26,11 @@ Criar um sistema capaz de realizar um CRUD de Agricultores
 - O Sistema deve ser Desenvolvido com o Pattern Service e o Pattern Repository
 - O Sistema deve possuir Migration
 - Utilizar Banco de dados MySQL
-- Ao Finalizar o Desenvolvimento, subir o fonte para um repositorio público no Github e Enviar o Link para a equipe de Recrutamento e Seleção.
+- Ao Finalizar o Desenvolvimento, subir o fonte para um repositorio público no Github e Enviar o Link para: marco.antonio@attosementes.com.br
 
 ## Observações
 - Detalhes adicionados a mais que o solicitado pode ser um diferencial
-- Layout bem feito pode ser uma diferencial
+- Layout bem feito pode ser um diferencial
 
 
 ### A Equipe ATTO Deseja uma boa sorte!
