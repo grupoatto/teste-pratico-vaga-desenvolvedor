@@ -21,7 +21,7 @@ Criar um sistema capaz de realizar um CRUD de Agricultores
 
 ## Regras Técnicas
 - O Sistema deve ser desenvovido na linguagem PHP ou NodeJS.
-- Pode ser utilizado o Framework de sua preferência (Laravel, Lumen Zend, NestJS, ReactJS, NextJS, JQuery, etc..).
+- Pode ser utilizado o Framework de sua preferência (Laravel, Lumen, Zend, NestJS, ReactJS, NextJS, JQuery, etc..).
 - O Sistema deve ser Desenvolvido com a Arquitetura MVC.
 - O Sistema deve ser Desenvolvido com o Pattern Service e o Pattern Repository
 - O Sistema deve possuir Migration
