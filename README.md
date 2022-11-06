@@ -1,4 +1,4 @@
-# Teste Prático para Vaga de Desenvolvedor Web e Mobile
+# Teste Prático para Vaga de Desenvolvedor Full Stack
 
 ## Enunciado
 Criar um sistema capaz de realizar um CRUD de Agricultores
