@@ -1,4 +1,4 @@
-# Teste Prático para Vaga de Desenvolvedor Full Stack
+# Teste Prático para Vaga de Desenvolvedor
 
 ## Enunciado
 Criar um sistema capaz de realizar um CRUD de Agricultores
@@ -20,12 +20,13 @@ Criar um sistema capaz de realizar um CRUD de Agricultores
 - O Sistema deve possuir uma opção para Deletar um Agricultor com um Alerta de Confirmação da ação.
 
 ## Regras Técnicas
-- O Sistema deve ser desenvovido na linguagem PHP ou NodeJS.
-- Pode ser utilizado o Framework de sua preferência (Laravel, Lumen, Zend, NestJS, ReactJS, NextJS, JQuery, etc..).
+- O Sistema deve ser desenvovido na linguagem PHP ou NodeJS, ou C#.
+- Pode ser utilizado o Framework de sua preferência (Laravel, Lumen, Zend, NestJS, ReactJS, NextJS, JQuery, DevExpress etc..).
 - O Sistema deve ser Desenvolvido com a Arquitetura MVC.
-- O Sistema deve ser Desenvolvido com o Pattern Service e o Pattern Repository
+- O Sistema deve ser desenvolvido com Orientado a Objeto.
+- O Sistema deve ser Desenvolvido com o Pattern Service e o Pattern Repository.
 - O Sistema deve possuir Migration
-- Utilizar Banco de dados MySQL
+- Utilizar Banco de dados MySQL.
 - Ao Finalizar o Desenvolvimento, subir o fonte para um repositorio público no Github e Enviar o Link para: marco.antonio@attosementes.com.br e aldair.gomes@attosementes.com.br
 
 ## Observações
